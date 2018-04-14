@@ -1,6 +1,7 @@
 # Tecnología En Desarrollo De Software
 # Cuarto Semestre
 # Ingenieria-Software
-Integranrte:
+Integrantes:
 Jheison David Revelo
+
 José Ricardo Bermeo
