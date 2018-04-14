@@ -2,5 +2,5 @@
 # Cuarto Semestre
 # Ingenieria-Software
 Integranrte:
-José Ricardo Bermeo
+
 Jheison David Revelo
