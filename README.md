@@ -3,6 +3,6 @@
 # Ingenieria-Software
 Integrantes:
 
-Jheison David Revelo
+Jheison David Revelo Cadena
 
-José Ricardo Bermeo
+José Ricardo Bermeo Muñoz
