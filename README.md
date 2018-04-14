@@ -1,6 +1,5 @@
 # Tecnología En Desarrollo De Software
 # Cuarto Semestre
 # Ingenieria-Software
-Integranrtes:
+Integranrte:
 José Ricardo Bermeo
-Danny Liliana Ortiz
